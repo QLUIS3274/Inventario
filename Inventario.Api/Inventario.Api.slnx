@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Inventario.Maui/Inventario.Maui.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="../Inventario.Shared/Inventario.Shared.csproj" />
+  <Project Path="Inventario.Api.csproj" />
+</Solution>
